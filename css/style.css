@@ -1,0 +1,35 @@
+/* line 4, ../sass/partials/_page.scss */
+body {
+  background: white;
+  color: #404040;
+  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  -webkit-text-size-adjust: 200%;
+  /* Increase text size in iPhone */
+}
+
+/* line 11, ../sass/partials/_page.scss */
+h1, h2, h3, h4, p, ul, ol, li {
+  line-height: 1.3em;
+  margin-bottom: 14px;
+}
+
+/* line 19, ../sass/partials/_page.scss */
+h1 {
+  font-size: 2em;
+}
+
+/* line 22, ../sass/partials/_page.scss */
+h2 {
+  font-size: 1.6em;
+}
+
+/* line 25, ../sass/partials/_page.scss */
+h3 {
+  font-size: 1.4em;
+}
+
+/* line 28, ../sass/partials/_page.scss */
+h4 {
+  font-size: 1.2em;
+}
