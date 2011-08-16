@@ -7,7 +7,8 @@ Finally fed up with the cruft in existing frameworks/boilerplates we made our ow
 
 Requires Compass. http://compass-style.org/
 
-Planned Plug-ins for additional Sauces: 
+Planned Plug-ins for additional Sauces:
+
 * grid
 * forms
 * applications
