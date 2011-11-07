@@ -12,6 +12,25 @@ App.Model = function() {
     *
     */
 
+    var data;
+
+    var getData = function() {
+        
+        $.ajax({
+            url     : 'foo.json',
+            dataType: 'json',
+            async   : true,
+            data    : shows,
+            success : function(data) {
+                data = data;
+            },
+            error: function(error) {
+                console.error(error);
+            }
+        });
+
+    };
+
 
     /*
     * public vars and functions
